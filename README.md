@@ -1,4 +1,4 @@
-# Richie Ryan's Resume
+# (WIP) Richie Ryan's Resume
 
 ## Summary
 A full stack developer with 5 years of professional experience and various big projects under his belt. Passionate on crafting maintainable, expandable, clean and reusable code.
