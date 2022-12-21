@@ -24,7 +24,7 @@ A full stack developer with 5 years of professional experience and various big p
 #### Full Stack Developer | Mar 2021 - Present
 * Maintaining an emergency system built on meteor.js.
 * Maintained and published AWS Lambda functions as needed by the project.
-* Implemented a highly scaleable import system using AWS S3, SQS, and Lambda.
+* Implemented a highly scalable import system using AWS S3, SQS, and Lambda.
 * Supporting multiple platforms: Web, Mobile (Cordova - Android), Desktop (Electron).
 * Working with highly responsive web app layout.
 * Implemented and maintained unit tests.
