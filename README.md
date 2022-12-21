@@ -43,6 +43,8 @@ A full stack developer with 5 years of professional experience and various big p
 * Worked directly with Client to prepare sprint tasks and provide technical consultancy.
 * Overseen sprints and guided team during the sprint.
 * Helped team members with questions, suggestions, and code reviews.
+* Prepare and execute deployments.
+* Maintained nginx server.
 #### Front End React Developer | Nov 2019 - Aug 2021
 * Built a React Web App with responsive graphs and data tables.
 * Implemented responsive modern material design.
