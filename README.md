@@ -1,18 +1,25 @@
 # Richie Ryan's Resume
 
 ## Summary
-A full stack developer with 5 years of professional experience and various big projects under his belt. Passionate on crafting maintainable, expandable, clean and reusable code.
+A full stack developer with 7 years of professional experience and various big projects under his belt. Passionate on crafting maintainable, expandable, clean and reusable code.
 
 ## Professional Experience
 ### Scopic (Full Remote)
 #### Senior Developer | Nov 2019 - Present
 ---
+### Scopic - NextJS administration webapp
+#### Full Stack Developer | Nov 2024 - Present
+* Building a very strict typechecked NextJS app using Prisma-Zod-Typescript
+* Handled registration form and flow with 3rd party services integration for identity verification and contract signing.
+* Brainstorm and implemented new UI design to match client needs.
+---
 ### Scopic - Call Center Application
-#### Front End React Developer | Nov 2022 - Present
-* Building a highly responsive React Web App that allows operators to flawlessly switch between calls.
+#### Full Stack Developer | Nov 2022 - Present
+* Building a highly responsive and well optimized React Web App that allows operators to flawlessly switch between calls.
 * Using websocket for connection between FE and BE.
 * Using Twilio for VoIP.
-* Occasionally works on BE to improve performance and resolve bugs.
+* Upgraded BE service to improve scalability and handle concurrency well.
+* Build a backup service to avoid db outage.
 ---
 ### Scopic - Internal Project Estimation Webapp
 #### Tech Lead | Jul 2022 - Present
@@ -22,6 +29,7 @@ A full stack developer with 5 years of professional experience and various big p
 ---
 ### Scopic - Commercial Emergency 911 System
 #### Full Stack Developer | Mar 2021 - Present
+* Work closely with client to help him oversees project direction.
 * Maintaining an emergency system built on meteor.js.
 * Maintained and published AWS Lambda functions as needed by the project.
 * Implemented a highly scalable import system using AWS S3, SQS, and Lambda.
@@ -30,6 +38,9 @@ A full stack developer with 5 years of professional experience and various big p
 * Implemented and maintained unit tests.
 * Implemented and maintained automated end-to-end test cases.
 * Refactoring legacy codes to improve performance and simplify code structure.
+* Lead a team of dev on converting the project from Flow typecheck to Typescript.
+* Lead a team of dev on converting the Meteor app from using Blaze to React Typescript.
+  
 ---
 ### Scopic - 3D Orthodentic Web Application
 #### Front end React Developer | Aug 2022 - Oct 2022
